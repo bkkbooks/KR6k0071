@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0071/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛阿毘曇經出家相品
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1482.xml
+    old_id: T24n1482
+hash: sha256:81ba9cd7c353f2059ab1cec688173dfa96632b66a68b42e774baa2a2ad25b04d
